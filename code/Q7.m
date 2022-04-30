@@ -1,7 +1,7 @@
 %% parameters
 T = 1e3; % final time
 M = 1e4; % averages
-h = 0.01; % step size for EM
+h = 0.001; % step size for EM
 Deltas = 2.^(-(0:7)); 
 alpha = 1; % drift coefficient
 sigma = 1; % diffusion coefficient
