@@ -5,8 +5,7 @@ h = 0.01; % step size for EM
 alpha = 1; % drift coefficient
 sigma = 1; % diffusion coefficient
 x0 = 2; % initial condition
-var = @(t) sigma/alpha * (1-exp(-2*alpha*t));
-
+var = @(t) sigma/alpha * (1-exp(-2*alpha*t)); %% variance of X(t)
 pho_infty = @(x) 1/sqrt(2*pi*sigma/alpha) * exp(-x.^2 / (2*sigma/alpha)); % invariant density
 
 %% calculate empirical averages
@@ -17,7 +16,6 @@ for k = 1:M
     X = euler_maruyama(x0, alpha, sigma, h, W);
     mean_endpoint(k) = X(end);
 end
-
 
 %% example of solution
 figure()
