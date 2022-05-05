@@ -12,7 +12,6 @@ Question 3: </br>
 - answer OK
 - clear passages OK
 - plot explained OK
-- plot with legend, labels and all ---> add labels
 
 Question 4: </br>
 - answer OK
@@ -29,8 +28,8 @@ Question 6: </br>
 Question 7: </br>
 - answer OK
 - clear passages OK
-- plot explained ---> can explain better
-- plot with legend, labels and all ---> add labels
+- plot explained TODO
+- plot OK
 
 Question 8: </br>
 - answer TODO
@@ -52,13 +51,13 @@ Question 12: </br>
 - answer OK
 - clear passages OK
 - plot explained TODO
-- plot with legend, labels and all ---> add labels
+- plot with legend, labels and all OK
 
 Question 13: </br>
 - answer OK
 - clear passages OK
 - plot explained TODO
-- plot with legend, labels and all ---> add labels
+- plot with legend, labels and all OK
 
 Question 14: </br>
 - answer TODO
