@@ -30,6 +30,6 @@ figure()
 histogram(mean_endpoint, 'normalization', 'pdf');
 hold on
 plot(x, pho_infty(x), 'r', 'LineWidth', 1.5)
-legend('', "\rho_{\infty}", 'Fontsize', 20);
+legend('', "\rho_{\infty}(x)", 'Fontsize', 20);
 title("Empirical and theoretical distribution of X(T) for large T");
 saveas(gcf, "plot_Q3", "epsc");

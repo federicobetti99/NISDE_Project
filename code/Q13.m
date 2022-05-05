@@ -1,4 +1,5 @@
 %% parameters
+rng(0)
 T = 1e3; % final time
 M = 1e4; % averages
 h = 0.01; % step size for EM
@@ -24,6 +25,6 @@ end
 figure()
 histogram(clt_values, 'normalization', 'pdf');
 hold on
-plot(spacegrid, pho_sigma(spacegrid));
-legend("", "$\mathcal{N}(0, \Sigma)$", "interpreter", "latex");
+plot(spacegrid, pho_sigma(spacegrid), 'LineWidth', 2);
+legend("", "$\mathcal{N}(0, \Sigma)$", "interpreter", "latex", "Fontsize", 20);
 saveas(gcf, "plot_Q13", "epsc");
