@@ -6,17 +6,17 @@ Question 1: </br>
 
 Question 2: </br>
 - answer OK
-- clear passages ---> Integration by parts can be explained better
+- clear passages OK
 
 Question 3: </br>
 - answer OK
 - clear passages OK
-- plot explained ---> can explain a little more
+- plot explained OK
 - plot with legend, labels and all ---> add labels
 
 Question 4: </br>
 - answer OK
-- clear passages ---> explain better passage of Ito isometry
+- clear passages OK
 
 Question 5: </br>
 - answer OK
