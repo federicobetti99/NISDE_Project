@@ -32,8 +32,8 @@ Question 7: </br>
 - plot OK
 
 Question 8: </br>
-- answer TODO
-- clear passages TODO
+- answer OK
+- clear passages OK
 
 Question 9: </br>
 - answer ---> computation of the eigenvalues
@@ -51,13 +51,13 @@ Question 12: </br>
 - answer OK
 - clear passages OK
 - plot explained TODO
-- plot with legend, labels and all OK
+- plot OK
 
 Question 13: </br>
 - answer OK
 - clear passages OK
 - plot explained TODO
-- plot with legend, labels and all OK
+- plot OK
 
 Question 14: </br>
 - answer TODO
