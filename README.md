@@ -45,7 +45,7 @@ Question 10: </br>
 
 Question 11: </br>
 - answer OK
-- clear passages ---> why can we pass the limit inside log?
+- clear passages OK
 
 Question 12: </br>
 - answer OK
