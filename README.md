@@ -50,13 +50,13 @@ Question 11: </br>
 Question 12: </br>
 - answer OK
 - clear passages OK
-- plot explained TODO
+- plot explained OK
 - plot OK
 
 Question 13: </br>
 - answer OK
 - clear passages OK
-- plot explained TODO
+- plot explained OK
 - plot OK
 
 Question 14: </br>
