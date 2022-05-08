@@ -28,7 +28,7 @@ Question 6: </br>
 Question 7: </br>
 - answer OK
 - clear passages OK
-- plot explained TODO
+- plot explained OK
 - plot OK
 
 Question 8: </br>
@@ -36,8 +36,8 @@ Question 8: </br>
 - clear passages OK
 
 Question 9: </br>
-- answer ---> computation of the eigenvalues
-- clear passages ---> OK, maybe explain better the initialization 
+- answer OK
+- clear passages OK
 
 Question 10: </br>
 - answer OK
