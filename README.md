@@ -60,8 +60,8 @@ Question 13: </br>
 - plot OK
 
 Question 14: </br>
-- answer TODO
-- clear passages TODO
+- answer OK
+- clear passages OK
 
 Question 15: </br>
 - answer TODO
