@@ -1,4 +1,8 @@
 %% parameters
+clear 
+close all
+clc
+
 rng(0)
 T = 1e3; % final time
 M = 1e4; % averages
@@ -27,4 +31,6 @@ histogram(clt_values, 'normalization', 'pdf');
 hold on
 plot(spacegrid, pho_sigma(spacegrid), 'LineWidth', 2);
 legend("", "$\mathcal{N}(0, \Sigma)$", "interpreter", "latex", "Fontsize", 20);
+xlim([-10 10]);
+ylim([0 1/sqrt(2*pi*Sigma)+0.05]);
 saveas(gcf, "plot_Q13", "epsc");

@@ -20,7 +20,7 @@ end
 %% example of solution
 figure()
 plot(timegrid(1:100), X(1:100))
-title("Sample path of the Ornstein–Uhlenbeck process");
+title("Sample path of the Ornstein–Uhlenbeck process", "FontSize", 10);
 saveas(gcf, "example_sol", "epsc");
 
 
@@ -29,7 +29,8 @@ x = linspace(-5, 5, 10000);
 figure()
 histogram(mean_endpoint, 'normalization', 'pdf');
 hold on
-plot(x, pho_infty(x), 'r', 'LineWidth', 1.5)
-legend('', "\rho_{\infty}(x)", 'Fontsize', 20);
-title("Empirical and theoretical distribution of X(T) for large T");
+plot(x, pho_infty(x), 'r', 'LineWidth', 1.5);
+ylim([0 1/sqrt(2*pi*sigma/alpha)+0.1]);
+legend('', "\rho_{\infty}(x)", 'Fontsize', 15);
+title("Empirical and theoretical distribution of X(T), $T = 10^3$", "interpreter", "latex", "FontSize", 13);
 saveas(gcf, "plot_Q3", "epsc");
