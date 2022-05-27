@@ -12,7 +12,6 @@ Question 3: </br>
 - answer OK
 - clear passages OK
 - plot explained OK
-- plot with legend, labels and all ---> add labels
 
 Question 4: </br>
 - answer OK
@@ -29,16 +28,16 @@ Question 6: </br>
 Question 7: </br>
 - answer OK
 - clear passages OK
-- plot explained ---> can explain better
-- plot with legend, labels and all ---> add labels
+- plot explained OK
+- plot OK
 
 Question 8: </br>
-- answer TODO
-- clear passages TODO
+- answer OK
+- clear passages OK
 
 Question 9: </br>
-- answer ---> computation of the eigenvalues
-- clear passages ---> OK, maybe explain better the initialization 
+- answer OK
+- clear passages OK
 
 Question 10: </br>
 - answer OK
@@ -46,24 +45,24 @@ Question 10: </br>
 
 Question 11: </br>
 - answer OK
-- clear passages ---> why can we pass the limit inside log?
+- clear passages OK
 
 Question 12: </br>
 - answer OK
 - clear passages OK
-- plot explained TODO
-- plot with legend, labels and all ---> add labels
+- plot explained OK
+- plot OK
 
 Question 13: </br>
 - answer OK
 - clear passages OK
-- plot explained TODO
-- plot with legend, labels and all ---> add labels
+- plot explained OK
+- plot OK
 
 Question 14: </br>
-- answer TODO
-- clear passages TODO
+- answer OK
+- clear passages OK
 
 Question 15: </br>
-- answer TODO
-- clear passages TODO
+- answer OK
+- clear passages OK
